@@ -35,3 +35,5 @@ function onFormInput(evt) {
   localStorage.removeItem(STORAGE_KEY)
   console.log(formData)
 }
+
+
